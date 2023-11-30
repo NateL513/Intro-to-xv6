@@ -7,6 +7,6 @@ proc.c, defs.h, pstat.h, Makefile, usys.pl, user.h, getpinfo.c, syscall.h, sysca
 
 # Project-4
 I changed/added files: 
-
+defs.h makefile, Added pgaccess, user.h, usys.pl, syscall.h, proc.c, sysproc.c, exec.c, vm.c, riscv.h
 
 
